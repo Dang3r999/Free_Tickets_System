@@ -1,0 +1,8 @@
+{
+    "token": "Your Bot Token",
+    "staff": "Staff Role",
+    "parent": "Tickets Parent",
+    "membersrole": "Members Role",
+    "color": "Messages Color",
+    "logchannel": "Log Channel"
+}
