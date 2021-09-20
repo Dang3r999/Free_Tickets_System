@@ -4,5 +4,6 @@
     "parent": "Tickets Parent",
     "membersrole": "Members Role",
     "color": "Messages Color",
+    "developer": "Bot developer",
     "logchannel": "Log Channel"
 }
